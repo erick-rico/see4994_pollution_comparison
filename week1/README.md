@@ -1,4 +1,4 @@
-# Week 1 – Progress Report (Sept 5–11)
+# Week 1 – Progress Report (Sept 4–11)
 
 ## 📌 Overview
 First-pass exploration of HK vs Mexico City air quality. Set up repo structure, gathered initial data sources, and built quick plots. Drafted slides for the first check-in with Dr. Chu.
