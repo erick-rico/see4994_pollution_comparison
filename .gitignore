@@ -1,0 +1,18 @@
+# raw / heavy data (manténlo local)
+data_raw/
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# for temporal cache/outputs
+*.log
+*.tmp
