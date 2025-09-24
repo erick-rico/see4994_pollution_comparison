@@ -10,7 +10,3 @@ The aim is to identify patterns, differences, and lessons for improving air-qual
 ## 📂 Repository Structure
 - `week1/`, `week2/`, ... → weekly progress (notebooks, slides, notes, small datasets)
 - `final_report/` → cleaned and polished final deliverables
-
-## 📅 Weekly Progress
-- **Week 1 (Sept 5–11):** Data collection, first exploratory plots, initial presentation.
-- **Week 2:** ...
