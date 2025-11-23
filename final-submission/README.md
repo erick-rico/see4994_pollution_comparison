@@ -26,35 +26,14 @@ The final presentation summarizes the work, key findings, accomplishments, and f
 
 ## 📂 File Structure
 
-## 📁 Final Submission Structure
-
-<details>
-<summary><strong>Click to expand</strong></summary>
-
 final-submission/
-
-notebook_final.ipynb — Mini notebook for the corrected Figure 5
-
-see4994_final-report.pdf — Final written report
-
-see4994_final-presentation.pdf
-
-docs/
-
-README.md
-
-references_and_notes_final.md
-
-research_question_final.md
-
-CITATION.cff
-
-LICENSE
-
-CONTRIBUTING.md
-
-
-</details>
+- notebook_final.ipynb — Mini notebook for corrected Figure 5
+- see4994_final-report.pdf — Final written report
+- see4994_final-presentation.pdf
+- docs/
+    - README.md
+    - references_and_notes_final.md
+    - research_question_final.md
 
 ---
 
