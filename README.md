@@ -11,7 +11,7 @@
 
 <p align="center">
   Guided Study (SEE4994) — Fall 2025<br>
-  Supervisor: Prof. Jung-Eun Chu, City University of Hong Kong
+  Supervisor: Prof. Jung-Eun Chu, City University of Hong Kong<br>
   Author: Erick Rico Esparza  
 </p>
 
