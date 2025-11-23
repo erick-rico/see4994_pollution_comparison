@@ -31,7 +31,7 @@ final-submission/
 - see4994_final-report.pdf — Final written report
 - see4994_final-presentation.pdf
 - docs/
-    - README.md
+    - README.md (this file)
     - references_and_notes_final.md
     - research_question_final.md
 
