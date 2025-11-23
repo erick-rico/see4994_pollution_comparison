@@ -26,16 +26,35 @@ The final presentation summarizes the work, key findings, accomplishments, and f
 
 ## 📂 File Structure
 
-/final-submission
-│
-├── notebook_final.ipynb # Notebook used to fix Final Report's Figure 5
-├── see4994_final-presentation.pdf # Slides for the oral presentation
-├── see4994_final-report.pdf # Full written report (sent to supervisor & course coordinator)
-│
-└── /docs
-├── README.md # This file
-├── references_and_notes_final.md
-└── research_question_final.md
+## 📁 Final Submission Structure
+
+<details>
+<summary><strong>Click to expand</strong></summary>
+
+final-submission/
+
+notebook_final.ipynb — Mini notebook for the corrected Figure 5
+
+see4994_final-report.pdf — Final written report
+
+see4994_final-presentation.pdf
+
+docs/
+
+README.md
+
+references_and_notes_final.md
+
+research_question_final.md
+
+CITATION.cff
+
+LICENSE
+
+CONTRIBUTING.md
+
+
+</details>
 
 ---
 
