@@ -39,22 +39,21 @@ interpretation to explain *why* extreme pollution events occur in each city.
 
 see4994_pollution_comparison/
 │
-├── week1/ … week6/ # Weekly progress (notebooks, slides, references)
+├── week1/ … week6/                 # Weekly progress (notebooks, slides, references)
 │
 ├── final-submission/
-│ ├── notebook_final.ipynb # Mini notebook for final Figure 5 correction
-│ ├── see4994_final-report.pdf # Full written report
-│ ├── see4994_final-presentation.pdf
-│ └── docs/
-│ ├── README.md
-│ ├── references_and_notes_final.md
-│ └── research_question_final.md
+│   ├── notebook_final.ipynb         # Mini notebook for corrected Figure 5
+│   ├── see4994_final-report.pdf     # Final written report
+│   ├── see4994_final-presentation.pdf
+│   └── docs/
+│       ├── README.md
+│       ├── references_and_notes_final.md
+│       └── research_question_final.md
 │
 ├── CITATION.cff
 ├── LICENSE
 ├── CONTRIBUTING.md
-└── README.md # This file
-
+└── README.md                        # This file
 
 ---
 
